@@ -1,1 +1,2 @@
 2025-06-15 12:57:18,342 INFO Logging setup complete.
+2025-06-15 15:51:45,010 ERROR Error occurred in script [src/exception.py] at line [27]: [division by zero]

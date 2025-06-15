@@ -1,8 +1,6 @@
 import sys 
 import logging
-
-import sys
-import logging
+from logger import logging
 
 def error_message_details(error, error_details):
     """
@@ -24,3 +22,10 @@ class CustomException(Exception):
         return self.error_message
 
 
+if __name__ == "__main__":
+    try:
+        1 / 0  # Intentional error for demonstration
+    except Exception as e:
+        exc_info = sys.exc_info()
+        logging.error(CustomException(e, exc_info))
+        print(CustomException(e, exc_info))  # Print the custom exception message
