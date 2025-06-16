@@ -1,0 +1,8 @@
+2025-06-16 13:20:33,858 INFO Entered the data ingestion method or component
+2025-06-16 13:20:33,875 INFO Read the dataset as dataframe
+2025-06-16 13:20:33,891 INFO Train test split initiated
+2025-06-16 13:20:33,910 INFO Ingestion of data is completed
+2025-06-16 14:25:44,804 INFO Entered the data ingestion method or component
+2025-06-16 14:25:44,813 INFO Read the dataset as dataframe
+2025-06-16 14:25:44,829 INFO Train test split initiated
+2025-06-16 14:25:44,838 INFO Ingestion of data is completed
