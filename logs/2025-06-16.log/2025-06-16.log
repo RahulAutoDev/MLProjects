@@ -6,3 +6,55 @@
 2025-06-16 14:25:44,813 INFO Read the dataset as dataframe
 2025-06-16 14:25:44,829 INFO Train test split initiated
 2025-06-16 14:25:44,838 INFO Ingestion of data is completed
+2025-06-16 17:13:57,807 INFO Entered the data ingestion method or component
+2025-06-16 17:13:57,819 INFO Read the dataset as dataframe
+2025-06-16 17:13:57,828 INFO Train test split initiated
+2025-06-16 17:13:57,838 INFO Ingestion of data is completed
+2025-06-16 17:14:06,175 INFO Entered the data ingestion method or component
+2025-06-16 17:14:06,187 INFO Read the dataset as dataframe
+2025-06-16 17:14:06,194 INFO Train test split initiated
+2025-06-16 17:14:06,203 INFO Ingestion of data is completed
+2025-06-16 17:21:32,858 INFO Entered the data ingestion method or component
+2025-06-16 17:21:32,870 INFO Read the dataset as dataframe
+2025-06-16 17:21:32,877 INFO Train test split initiated
+2025-06-16 17:21:32,886 INFO Ingestion of data is completed
+2025-06-16 17:23:44,070 INFO Entered the data ingestion method or component
+2025-06-16 17:23:44,080 INFO Read the dataset as dataframe
+2025-06-16 17:23:44,086 INFO Train test split initiated
+2025-06-16 17:23:44,093 INFO Ingestion of data is completed
+2025-06-16 17:23:44,100 INFO Training and testing datasets loaded successfully.
+2025-06-16 17:23:44,100 INFO Numerical features and categorical columns defined.
+2025-06-16 17:23:44,100 INFO Numerical and categorical transformers created.
+2025-06-16 17:23:44,100 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-16 17:23:44,102 INFO Data transformation initiated on training and testing datasets.
+2025-06-16 17:26:32,052 INFO Entered the data ingestion method or component
+2025-06-16 17:26:32,060 INFO Read the dataset as dataframe
+2025-06-16 17:26:32,067 INFO Train test split initiated
+2025-06-16 17:26:32,076 INFO Ingestion of data is completed
+2025-06-16 17:26:32,081 INFO Training and testing datasets loaded successfully.
+2025-06-16 17:26:32,082 INFO Numerical features and categorical columns defined.
+2025-06-16 17:26:32,082 INFO Numerical and categorical transformers created.
+2025-06-16 17:26:32,082 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-16 17:26:32,083 INFO Data transformation initiated on training and testing datasets.
+2025-06-16 17:32:24,803 INFO Entered the data ingestion method or component
+2025-06-16 17:32:24,811 INFO Read the dataset as dataframe
+2025-06-16 17:32:24,819 INFO Train test split initiated
+2025-06-16 17:32:24,826 INFO Ingestion of data is completed
+2025-06-16 17:32:24,831 INFO Training and testing datasets loaded successfully.
+2025-06-16 17:32:24,831 INFO Numerical features and categorical columns defined.
+2025-06-16 17:32:24,832 INFO Numerical and categorical transformers created.
+2025-06-16 17:32:24,832 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-16 17:32:24,833 INFO Data transformation initiated on training and testing datasets.
+2025-06-16 17:35:34,716 INFO Entered the data ingestion method or component
+2025-06-16 17:35:34,722 INFO Read the dataset as dataframe
+2025-06-16 17:35:34,727 INFO Train test split initiated
+2025-06-16 17:35:34,734 INFO Ingestion of data is completed
+2025-06-16 17:35:34,740 INFO Training and testing datasets loaded successfully.
+2025-06-16 17:35:34,740 INFO Numerical features and categorical columns defined.
+2025-06-16 17:35:34,740 INFO Numerical and categorical transformers created.
+2025-06-16 17:35:34,740 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-16 17:35:34,741 INFO Data transformation initiated on training and testing datasets.
+2025-06-16 17:35:34,763 INFO Data transformation completed successfully.
+2025-06-16 17:35:34,764 INFO Training and testing arrays created.
+2025-06-16 17:35:34,769 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-16 17:35:34,769 INFO Preprocessor object saved successfully.
