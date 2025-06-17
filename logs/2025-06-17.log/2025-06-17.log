@@ -1,0 +1,404 @@
+2025-06-17 14:02:55,430 INFO Entered the data ingestion method or component
+2025-06-17 14:02:55,439 INFO Read the dataset as dataframe
+2025-06-17 14:02:55,449 INFO Train test split initiated
+2025-06-17 14:02:55,460 INFO Ingestion of data is completed
+2025-06-17 14:02:55,465 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:02:55,465 INFO Numerical features and categorical columns defined.
+2025-06-17 14:02:55,466 INFO Numerical and categorical transformers created.
+2025-06-17 14:02:55,466 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:02:55,467 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:02:55,492 INFO Data transformation completed successfully.
+2025-06-17 14:02:55,492 INFO Training and testing arrays created.
+2025-06-17 14:02:55,499 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:02:55,500 INFO Preprocessor object saved successfully.
+2025-06-17 14:02:55,500 INFO Splitting training and testing data
+2025-06-17 14:02:55,500 INFO Model dictionary created with various regression models
+2025-06-17 14:02:55,500 ERROR Error during model evaluation: 'str' object has no attribute 'fit'
+2025-06-17 14:07:22,649 INFO Entered the data ingestion method or component
+2025-06-17 14:07:22,665 INFO Read the dataset as dataframe
+2025-06-17 14:07:22,672 INFO Train test split initiated
+2025-06-17 14:07:22,680 INFO Ingestion of data is completed
+2025-06-17 14:07:22,691 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:07:22,691 INFO Numerical features and categorical columns defined.
+2025-06-17 14:07:22,691 INFO Numerical and categorical transformers created.
+2025-06-17 14:07:22,691 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:07:22,694 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:07:22,718 INFO Data transformation completed successfully.
+2025-06-17 14:07:22,718 INFO Training and testing arrays created.
+2025-06-17 14:07:22,724 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:07:22,724 INFO Preprocessor object saved successfully.
+2025-06-17 14:07:22,725 INFO Splitting training and testing data
+2025-06-17 14:07:22,725 INFO Model dictionary created with various regression models
+2025-06-17 14:07:22,725 ERROR Error during model evaluation: 'str' object has no attribute 'fit'
+2025-06-17 14:11:37,270 INFO Entered the data ingestion method or component
+2025-06-17 14:11:37,280 INFO Read the dataset as dataframe
+2025-06-17 14:11:37,289 INFO Train test split initiated
+2025-06-17 14:11:37,298 INFO Ingestion of data is completed
+2025-06-17 14:11:37,304 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:11:37,304 INFO Numerical features and categorical columns defined.
+2025-06-17 14:11:37,305 INFO Numerical and categorical transformers created.
+2025-06-17 14:11:37,305 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:11:37,306 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:11:37,331 INFO Data transformation completed successfully.
+2025-06-17 14:11:37,331 INFO Training and testing arrays created.
+2025-06-17 14:11:37,337 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:11:37,338 INFO Preprocessor object saved successfully.
+2025-06-17 14:11:37,338 INFO Splitting training and testing data
+2025-06-17 14:11:37,338 INFO Model dictionary created with various regression models
+2025-06-17 14:11:37,338 ERROR Error during model evaluation: 'str' object has no attribute 'fit'
+2025-06-17 14:16:22,094 INFO Entered the data ingestion method or component
+2025-06-17 14:16:22,104 INFO Read the dataset as dataframe
+2025-06-17 14:16:22,113 INFO Train test split initiated
+2025-06-17 14:16:22,121 INFO Ingestion of data is completed
+2025-06-17 14:16:22,128 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:16:22,128 INFO Numerical features and categorical columns defined.
+2025-06-17 14:16:22,128 INFO Numerical and categorical transformers created.
+2025-06-17 14:16:22,128 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:16:22,130 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:16:22,156 INFO Data transformation completed successfully.
+2025-06-17 14:16:22,156 INFO Training and testing arrays created.
+2025-06-17 14:16:22,162 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:16:22,163 INFO Preprocessor object saved successfully.
+2025-06-17 14:16:22,163 INFO Splitting training and testing data
+2025-06-17 14:16:22,163 INFO Model dictionary created with various regression models
+2025-06-17 14:16:22,163 ERROR Error during model evaluation: 'str' object has no attribute 'fit'
+2025-06-17 14:17:47,736 INFO Entered the data ingestion method or component
+2025-06-17 14:17:47,744 INFO Read the dataset as dataframe
+2025-06-17 14:17:47,751 INFO Train test split initiated
+2025-06-17 14:17:47,759 INFO Ingestion of data is completed
+2025-06-17 14:17:47,766 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:17:47,766 INFO Numerical features and categorical columns defined.
+2025-06-17 14:17:47,766 INFO Numerical and categorical transformers created.
+2025-06-17 14:17:47,766 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:17:47,768 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:17:47,792 INFO Data transformation completed successfully.
+2025-06-17 14:17:47,793 INFO Training and testing arrays created.
+2025-06-17 14:17:47,799 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:17:47,799 INFO Preprocessor object saved successfully.
+2025-06-17 14:17:47,800 INFO Splitting training and testing data
+2025-06-17 14:17:47,800 INFO Model dictionary created with various regression models
+2025-06-17 14:17:47,800 ERROR Error during model evaluation: 'str' object has no attribute 'fit'
+2025-06-17 14:18:15,513 INFO Entered the data ingestion method or component
+2025-06-17 14:18:15,518 INFO Read the dataset as dataframe
+2025-06-17 14:18:15,523 INFO Train test split initiated
+2025-06-17 14:18:15,532 INFO Ingestion of data is completed
+2025-06-17 14:18:15,538 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:18:15,538 INFO Numerical features and categorical columns defined.
+2025-06-17 14:18:15,538 INFO Numerical and categorical transformers created.
+2025-06-17 14:18:15,538 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:18:15,539 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:18:15,568 INFO Data transformation completed successfully.
+2025-06-17 14:18:15,568 INFO Training and testing arrays created.
+2025-06-17 14:18:15,575 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:18:15,575 INFO Preprocessor object saved successfully.
+2025-06-17 14:18:15,576 INFO Splitting training and testing data
+2025-06-17 14:18:15,576 INFO Model dictionary created with various regression models
+2025-06-17 14:18:15,576 ERROR Error during model evaluation: 'str' object has no attribute 'fit'
+2025-06-17 14:22:07,160 INFO Entered the data ingestion method or component
+2025-06-17 14:22:07,171 INFO Read the dataset as dataframe
+2025-06-17 14:22:07,180 INFO Train test split initiated
+2025-06-17 14:22:07,189 INFO Ingestion of data is completed
+2025-06-17 14:22:07,195 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:22:07,195 INFO Numerical features and categorical columns defined.
+2025-06-17 14:22:07,195 INFO Numerical and categorical transformers created.
+2025-06-17 14:22:07,195 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:22:07,197 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:22:07,224 INFO Data transformation completed successfully.
+2025-06-17 14:22:07,224 INFO Training and testing arrays created.
+2025-06-17 14:22:07,231 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:22:07,231 INFO Preprocessor object saved successfully.
+2025-06-17 14:22:07,232 INFO Splitting training and testing data
+2025-06-17 14:22:07,232 INFO Model dictionary created with various regression models
+2025-06-17 14:22:07,239 INFO Linear Regression - Train Score: 0.8734184154623426, Test Score: 0.8808821891653763
+2025-06-17 14:22:07,239 INFO Model evaluation completed successfully.
+2025-06-17 14:22:27,933 INFO Gradient Boosting Classifier - Train Score: 0.9992847558298135, Test Score: 0.6329802447949029
+2025-06-17 14:22:27,938 INFO Model evaluation completed successfully.
+2025-06-17 14:22:28,091 INFO AdaBoost Regression - Train Score: 0.8508050614142482, Test Score: 0.8445864196070736
+2025-06-17 14:22:28,092 INFO Model evaluation completed successfully.
+2025-06-17 14:22:28,172 INFO KNeighbors Regressor - Train Score: 0.698829642221767, Test Score: 0.47561174068704326
+2025-06-17 14:22:28,172 INFO Model evaluation completed successfully.
+2025-06-17 14:22:28,181 INFO Decision Tree Regressor - Train Score: 0.9996534669718089, Test Score: 0.7392314570984275
+2025-06-17 14:22:28,181 INFO Model evaluation completed successfully.
+2025-06-17 14:22:28,181 INFO Best model found: Linear Regression with score: 0.8808821891653763
+2025-06-17 14:22:28,185 INFO Object saved at artifacts/model.pkl
+2025-06-17 14:22:28,185 INFO Best model saved successfully
+2025-06-17 14:22:28,199 INFO Data ingestion completed successfully
+2025-06-17 14:23:02,572 INFO Entered the data ingestion method or component
+2025-06-17 14:23:02,578 INFO Read the dataset as dataframe
+2025-06-17 14:23:02,583 INFO Train test split initiated
+2025-06-17 14:23:02,591 INFO Ingestion of data is completed
+2025-06-17 14:23:02,597 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:23:02,598 INFO Numerical features and categorical columns defined.
+2025-06-17 14:23:02,598 INFO Numerical and categorical transformers created.
+2025-06-17 14:23:02,598 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:23:02,600 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:23:02,631 INFO Data transformation completed successfully.
+2025-06-17 14:23:02,631 INFO Training and testing arrays created.
+2025-06-17 14:23:02,639 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:23:02,639 INFO Preprocessor object saved successfully.
+2025-06-17 14:23:02,639 INFO Splitting training and testing data
+2025-06-17 14:23:02,639 INFO Model dictionary created with various regression models
+2025-06-17 14:23:02,643 INFO Linear Regression - Train Score: 0.8734184154623426, Test Score: 0.8808821891653763
+2025-06-17 14:23:02,643 INFO Model evaluation completed successfully.
+2025-06-17 14:23:28,483 INFO Gradient Boosting Classifier - Train Score: 0.9993069339436177, Test Score: 0.685129843871744
+2025-06-17 14:23:28,488 INFO Model evaluation completed successfully.
+2025-06-17 14:23:28,645 INFO AdaBoost Regression - Train Score: 0.8501566710086148, Test Score: 0.8489761367895722
+2025-06-17 14:23:28,646 INFO Model evaluation completed successfully.
+2025-06-17 14:23:28,719 INFO KNeighbors Regressor - Train Score: 0.698829642221767, Test Score: 0.47561174068704326
+2025-06-17 14:23:28,719 INFO Model evaluation completed successfully.
+2025-06-17 14:23:28,728 INFO Decision Tree Regressor - Train Score: 0.9996534669718089, Test Score: 0.7192592702179352
+2025-06-17 14:23:28,729 INFO Model evaluation completed successfully.
+2025-06-17 14:23:29,226 INFO Random Forest Regressor - Train Score: 0.9756683594951407, Test Score: 0.8501318680875869
+2025-06-17 14:23:29,226 INFO Model evaluation completed successfully.
+2025-06-17 14:23:29,682 INFO RandomForest - Train Score: 0.9993069339436177, Test Score: 0.6578221932913177
+2025-06-17 14:23:29,683 INFO Model evaluation completed successfully.
+2025-06-17 14:23:29,683 INFO Best model found: Linear Regression with score: 0.8808821891653763
+2025-06-17 14:23:29,685 INFO Object saved at artifacts/model.pkl
+2025-06-17 14:23:29,686 INFO Best model saved successfully
+2025-06-17 14:26:08,240 INFO Entered the data ingestion method or component
+2025-06-17 14:26:08,253 INFO Read the dataset as dataframe
+2025-06-17 14:26:08,261 INFO Train test split initiated
+2025-06-17 14:26:08,268 INFO Ingestion of data is completed
+2025-06-17 14:26:08,274 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:26:08,274 INFO Numerical features and categorical columns defined.
+2025-06-17 14:26:08,274 INFO Numerical and categorical transformers created.
+2025-06-17 14:26:08,274 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:26:08,276 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:26:08,302 INFO Data transformation completed successfully.
+2025-06-17 14:26:08,302 INFO Training and testing arrays created.
+2025-06-17 14:26:08,310 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:26:08,310 INFO Preprocessor object saved successfully.
+2025-06-17 14:26:08,310 INFO Splitting training and testing data
+2025-06-17 14:26:08,310 INFO Model dictionary created with various regression models
+2025-06-17 14:26:08,324 INFO Linear Regression - Train Score: 0.8734184154623426, Test Score: 0.8808821891653763
+2025-06-17 14:26:08,325 INFO Model evaluation completed successfully.
+2025-06-17 14:26:08,492 INFO Gradient Boosting Regressor - Train Score: 0.9050396644022572, Test Score: 0.8724583745272497
+2025-06-17 14:26:08,492 INFO Model evaluation completed successfully.
+2025-06-17 14:26:08,649 INFO AdaBoost Regression - Train Score: 0.847743339940462, Test Score: 0.8470706965539497
+2025-06-17 14:26:08,650 INFO Model evaluation completed successfully.
+2025-06-17 14:26:08,737 INFO KNeighbors Regressor - Train Score: 0.698829642221767, Test Score: 0.47561174068704326
+2025-06-17 14:26:08,737 INFO Model evaluation completed successfully.
+2025-06-17 14:26:08,751 INFO Decision Tree Regressor - Train Score: 0.9996534669718089, Test Score: 0.7376492982611869
+2025-06-17 14:26:08,751 INFO Model evaluation completed successfully.
+2025-06-17 14:26:09,290 INFO Random Forest Regressor - Train Score: 0.9768277708109623, Test Score: 0.8511984847484454
+2025-06-17 14:26:09,290 INFO Model evaluation completed successfully.
+2025-06-17 14:26:09,290 INFO Best model found: Linear Regression with score: 0.8808821891653763
+2025-06-17 14:26:09,292 INFO Object saved at artifacts/model.pkl
+2025-06-17 14:26:09,292 INFO Best model saved successfully
+2025-06-17 14:26:46,758 INFO Entered the data ingestion method or component
+2025-06-17 14:26:46,764 INFO Read the dataset as dataframe
+2025-06-17 14:26:46,769 INFO Train test split initiated
+2025-06-17 14:26:46,777 INFO Ingestion of data is completed
+2025-06-17 14:26:46,784 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:26:46,784 INFO Numerical features and categorical columns defined.
+2025-06-17 14:26:46,784 INFO Numerical and categorical transformers created.
+2025-06-17 14:26:46,784 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:26:46,786 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:26:46,813 INFO Data transformation completed successfully.
+2025-06-17 14:26:46,813 INFO Training and testing arrays created.
+2025-06-17 14:26:46,820 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:26:46,820 INFO Preprocessor object saved successfully.
+2025-06-17 14:26:46,820 INFO Splitting training and testing data
+2025-06-17 14:26:46,820 INFO Model dictionary created with various regression models
+2025-06-17 14:26:46,825 INFO Linear Regression - Train Score: 0.8734184154623426, Test Score: 0.8808821891653763
+2025-06-17 14:26:46,825 INFO Model evaluation completed successfully.
+2025-06-17 14:26:46,983 INFO Gradient Boosting Regressor - Train Score: 0.9050396644022572, Test Score: 0.8725182366261753
+2025-06-17 14:26:46,983 INFO Model evaluation completed successfully.
+2025-06-17 14:26:47,145 INFO AdaBoost Regression - Train Score: 0.8481443854340713, Test Score: 0.8503432276315166
+2025-06-17 14:26:47,145 INFO Model evaluation completed successfully.
+2025-06-17 14:26:47,225 INFO KNeighbors Regressor - Train Score: 0.698829642221767, Test Score: 0.47561174068704326
+2025-06-17 14:26:47,225 INFO Model evaluation completed successfully.
+2025-06-17 14:26:47,235 INFO Decision Tree Regressor - Train Score: 0.9996534669718089, Test Score: 0.7368684926012499
+2025-06-17 14:26:47,235 INFO Model evaluation completed successfully.
+2025-06-17 14:26:47,782 INFO Random Forest Regressor - Train Score: 0.9769004995226627, Test Score: 0.8475690319530333
+2025-06-17 14:26:47,782 INFO Model evaluation completed successfully.
+2025-06-17 14:26:47,783 INFO Best model found: Linear Regression with score: 0.8808821891653763
+2025-06-17 14:26:47,784 INFO Object saved at artifacts/model.pkl
+2025-06-17 14:26:47,784 INFO Best model saved successfully
+2025-06-17 14:26:47,787 INFO Data ingestion completed successfully
+2025-06-17 14:29:02,733 INFO Entered the data ingestion method or component
+2025-06-17 14:29:02,743 INFO Read the dataset as dataframe
+2025-06-17 14:29:02,749 INFO Train test split initiated
+2025-06-17 14:29:02,757 INFO Ingestion of data is completed
+2025-06-17 14:29:02,764 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:29:02,764 INFO Numerical features and categorical columns defined.
+2025-06-17 14:29:02,764 INFO Numerical and categorical transformers created.
+2025-06-17 14:29:02,765 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:29:02,766 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:29:02,791 INFO Data transformation completed successfully.
+2025-06-17 14:29:02,792 INFO Training and testing arrays created.
+2025-06-17 14:29:02,798 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:29:02,799 INFO Preprocessor object saved successfully.
+2025-06-17 14:29:02,799 INFO Splitting training and testing data
+2025-06-17 14:29:02,799 INFO Model dictionary created with various regression models
+2025-06-17 14:29:02,804 INFO Linear Regression - Train Score: 0.8734184154623426, Test Score: 0.8808821891653763
+2025-06-17 14:29:02,804 INFO Model evaluation completed successfully.
+2025-06-17 14:29:02,962 INFO Gradient Boosting Regressor - Train Score: 0.9050396644022572, Test Score: 0.8727446684710303
+2025-06-17 14:29:02,963 INFO Model evaluation completed successfully.
+2025-06-17 14:29:03,146 INFO AdaBoost Regression - Train Score: 0.8504703852393185, Test Score: 0.8447391469395619
+2025-06-17 14:29:03,146 INFO Model evaluation completed successfully.
+2025-06-17 14:29:03,300 INFO KNeighbors Regressor - Train Score: 0.698829642221767, Test Score: 0.47561174068704326
+2025-06-17 14:29:03,301 INFO Model evaluation completed successfully.
+2025-06-17 14:29:03,316 INFO Decision Tree Regressor - Train Score: 0.9996534669718089, Test Score: 0.7315055905685252
+2025-06-17 14:29:03,316 INFO Model evaluation completed successfully.
+2025-06-17 14:29:04,320 INFO Random Forest Regressor - Train Score: 0.9766644685872383, Test Score: 0.8512410167372305
+2025-06-17 14:29:04,320 INFO Model evaluation completed successfully.
+2025-06-17 14:29:04,321 INFO Best model found: Linear Regression with score: 0.8808821891653763
+2025-06-17 14:29:04,323 INFO Object saved at artifacts/model.pkl
+2025-06-17 14:29:04,324 INFO Best model saved successfully
+2025-06-17 14:29:04,328 INFO Data ingestion completed successfully
+2025-06-17 14:29:17,640 INFO Entered the data ingestion method or component
+2025-06-17 14:29:17,646 INFO Read the dataset as dataframe
+2025-06-17 14:29:17,652 INFO Train test split initiated
+2025-06-17 14:29:17,659 INFO Ingestion of data is completed
+2025-06-17 14:29:17,665 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:29:17,666 INFO Numerical features and categorical columns defined.
+2025-06-17 14:29:17,666 INFO Numerical and categorical transformers created.
+2025-06-17 14:29:17,666 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:29:17,668 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:29:17,694 INFO Data transformation completed successfully.
+2025-06-17 14:29:17,694 INFO Training and testing arrays created.
+2025-06-17 14:29:17,702 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:29:17,702 INFO Preprocessor object saved successfully.
+2025-06-17 14:29:17,702 INFO Splitting training and testing data
+2025-06-17 14:29:17,702 INFO Model dictionary created with various regression models
+2025-06-17 14:29:17,706 INFO Linear Regression - Train Score: 0.8734184154623426, Test Score: 0.8808821891653763
+2025-06-17 14:29:17,706 INFO Model evaluation completed successfully.
+2025-06-17 14:29:17,864 INFO Gradient Boosting Regressor - Train Score: 0.9050396644022572, Test Score: 0.8728936909479622
+2025-06-17 14:29:17,864 INFO Model evaluation completed successfully.
+2025-06-17 14:29:18,015 INFO AdaBoost Regression - Train Score: 0.8548155982611049, Test Score: 0.8459605827173056
+2025-06-17 14:29:18,015 INFO Model evaluation completed successfully.
+2025-06-17 14:29:18,083 INFO KNeighbors Regressor - Train Score: 0.698829642221767, Test Score: 0.47561174068704326
+2025-06-17 14:29:18,083 INFO Model evaluation completed successfully.
+2025-06-17 14:29:18,092 INFO Decision Tree Regressor - Train Score: 0.9996534669718089, Test Score: 0.7127662547300385
+2025-06-17 14:29:18,092 INFO Model evaluation completed successfully.
+2025-06-17 14:29:18,581 INFO Random Forest Regressor - Train Score: 0.9769925256730091, Test Score: 0.8536857086160672
+2025-06-17 14:29:18,581 INFO Model evaluation completed successfully.
+2025-06-17 14:29:18,581 INFO Best model found: Linear Regression with score: 0.8808821891653763
+2025-06-17 14:29:18,583 INFO Object saved at artifacts/model.pkl
+2025-06-17 14:29:18,583 INFO Best model saved successfully
+2025-06-17 14:29:18,586 INFO Data ingestion completed successfully
+2025-06-17 14:29:36,222 INFO Entered the data ingestion method or component
+2025-06-17 14:29:36,227 INFO Read the dataset as dataframe
+2025-06-17 14:29:36,233 INFO Train test split initiated
+2025-06-17 14:29:36,242 INFO Ingestion of data is completed
+2025-06-17 14:29:36,250 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:29:36,250 INFO Numerical features and categorical columns defined.
+2025-06-17 14:29:36,250 INFO Numerical and categorical transformers created.
+2025-06-17 14:29:36,250 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:29:36,252 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:29:36,279 INFO Data transformation completed successfully.
+2025-06-17 14:29:36,279 INFO Training and testing arrays created.
+2025-06-17 14:29:36,287 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:29:36,287 INFO Preprocessor object saved successfully.
+2025-06-17 14:29:36,287 INFO Splitting training and testing data
+2025-06-17 14:29:36,287 INFO Model dictionary created with various regression models
+2025-06-17 14:29:36,291 INFO Linear Regression - Train Score: 0.8734184154623426, Test Score: 0.8808821891653763
+2025-06-17 14:29:36,291 INFO Model evaluation completed successfully.
+2025-06-17 14:29:36,454 INFO Gradient Boosting Regressor - Train Score: 0.9050396644022572, Test Score: 0.872506908946841
+2025-06-17 14:29:36,455 INFO Model evaluation completed successfully.
+2025-06-17 14:29:36,683 INFO AdaBoost Regression - Train Score: 0.8493486424218348, Test Score: 0.8529614755733543
+2025-06-17 14:29:36,683 INFO Model evaluation completed successfully.
+2025-06-17 14:29:36,838 INFO KNeighbors Regressor - Train Score: 0.698829642221767, Test Score: 0.47561174068704326
+2025-06-17 14:29:36,839 INFO Model evaluation completed successfully.
+2025-06-17 14:29:36,862 INFO Decision Tree Regressor - Train Score: 0.9996534669718089, Test Score: 0.7423957747729089
+2025-06-17 14:29:36,862 INFO Model evaluation completed successfully.
+2025-06-17 14:29:38,176 INFO Random Forest Regressor - Train Score: 0.9766885922449587, Test Score: 0.8486878799880692
+2025-06-17 14:29:38,176 INFO Model evaluation completed successfully.
+2025-06-17 14:29:38,176 INFO Best model found: Linear Regression with score: 0.8808821891653763
+2025-06-17 14:29:38,180 INFO Object saved at artifacts/model.pkl
+2025-06-17 14:29:38,181 INFO Best model saved successfully
+2025-06-17 14:29:56,329 INFO Entered the data ingestion method or component
+2025-06-17 14:29:56,346 INFO Read the dataset as dataframe
+2025-06-17 14:29:56,354 INFO Train test split initiated
+2025-06-17 14:29:56,364 INFO Ingestion of data is completed
+2025-06-17 14:29:56,370 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:29:56,370 INFO Numerical features and categorical columns defined.
+2025-06-17 14:29:56,370 INFO Numerical and categorical transformers created.
+2025-06-17 14:29:56,370 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:29:56,372 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:29:56,396 INFO Data transformation completed successfully.
+2025-06-17 14:29:56,396 INFO Training and testing arrays created.
+2025-06-17 14:29:56,403 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:29:56,403 INFO Preprocessor object saved successfully.
+2025-06-17 14:29:56,403 INFO Splitting training and testing data
+2025-06-17 14:29:56,403 INFO Model dictionary created with various regression models
+2025-06-17 14:29:56,420 INFO Linear Regression - Train Score: 0.8734184154623426, Test Score: 0.8808821891653763
+2025-06-17 14:29:56,420 INFO Model evaluation completed successfully.
+2025-06-17 14:29:56,591 INFO Gradient Boosting Regressor - Train Score: 0.9050396644022572, Test Score: 0.8727311500424964
+2025-06-17 14:29:56,591 INFO Model evaluation completed successfully.
+2025-06-17 14:29:56,766 INFO AdaBoost Regression - Train Score: 0.8504123070100034, Test Score: 0.8503195031845455
+2025-06-17 14:29:56,766 INFO Model evaluation completed successfully.
+2025-06-17 14:29:57,072 INFO KNeighbors Regressor - Train Score: 0.698829642221767, Test Score: 0.47561174068704326
+2025-06-17 14:29:57,072 INFO Model evaluation completed successfully.
+2025-06-17 14:29:57,085 INFO Decision Tree Regressor - Train Score: 0.9996534669718089, Test Score: 0.7539023844982954
+2025-06-17 14:29:57,085 INFO Model evaluation completed successfully.
+2025-06-17 14:29:57,658 INFO Random Forest Regressor - Train Score: 0.9772517977554023, Test Score: 0.8519990987858883
+2025-06-17 14:29:57,658 INFO Model evaluation completed successfully.
+2025-06-17 14:29:57,658 INFO Best model found: Linear Regression with score: 0.8808821891653763
+2025-06-17 14:29:57,660 INFO Object saved at artifacts/model.pkl
+2025-06-17 14:29:57,660 INFO Best model saved successfully
+2025-06-17 14:30:33,729 INFO Entered the data ingestion method or component
+2025-06-17 14:30:33,735 INFO Read the dataset as dataframe
+2025-06-17 14:30:33,740 INFO Train test split initiated
+2025-06-17 14:30:33,747 INFO Ingestion of data is completed
+2025-06-17 14:30:33,753 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:30:33,754 INFO Numerical features and categorical columns defined.
+2025-06-17 14:30:33,754 INFO Numerical and categorical transformers created.
+2025-06-17 14:30:33,754 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:30:33,756 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:30:33,785 INFO Data transformation completed successfully.
+2025-06-17 14:30:33,785 INFO Training and testing arrays created.
+2025-06-17 14:30:33,792 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:30:33,792 INFO Preprocessor object saved successfully.
+2025-06-17 14:30:33,792 INFO Splitting training and testing data
+2025-06-17 14:30:33,793 INFO Model dictionary created with various regression models
+2025-06-17 14:30:33,800 INFO Linear Regression - Train Score: 0.8734184154623426, Test Score: 0.8808821891653763
+2025-06-17 14:30:33,801 INFO Model evaluation completed successfully.
+2025-06-17 14:30:33,962 INFO Gradient Boosting Regressor - Train Score: 0.9050396644022572, Test Score: 0.8730678301982941
+2025-06-17 14:30:33,963 INFO Model evaluation completed successfully.
+2025-06-17 14:30:34,126 INFO AdaBoost Regression - Train Score: 0.8515534105346354, Test Score: 0.8515168863405891
+2025-06-17 14:30:34,126 INFO Model evaluation completed successfully.
+2025-06-17 14:30:34,203 INFO KNeighbors Regressor - Train Score: 0.698829642221767, Test Score: 0.47561174068704326
+2025-06-17 14:30:34,203 INFO Model evaluation completed successfully.
+2025-06-17 14:30:34,212 INFO Decision Tree Regressor - Train Score: 0.9996534669718089, Test Score: 0.7612378481982293
+2025-06-17 14:30:34,212 INFO Model evaluation completed successfully.
+2025-06-17 14:30:34,838 INFO Random Forest Regressor - Train Score: 0.9771022064528748, Test Score: 0.8500598810448285
+2025-06-17 14:30:34,838 INFO Model evaluation completed successfully.
+2025-06-17 14:30:34,838 INFO Best model found: Linear Regression with score: 0.8808821891653763
+2025-06-17 14:30:34,840 INFO Object saved at artifacts/model.pkl
+2025-06-17 14:30:34,840 INFO Best model saved successfully
+2025-06-17 14:30:34,845 INFO Model evaluation metrics - R2: 0.8808821891653763, MAE: 4.20125, MSE: 28.9859375
+2025-06-17 14:30:34,850 INFO Data ingestion completed successfully
+2025-06-17 14:30:45,145 INFO Entered the data ingestion method or component
+2025-06-17 14:30:45,151 INFO Read the dataset as dataframe
+2025-06-17 14:30:45,156 INFO Train test split initiated
+2025-06-17 14:30:45,163 INFO Ingestion of data is completed
+2025-06-17 14:30:45,171 INFO Training and testing datasets loaded successfully.
+2025-06-17 14:30:45,172 INFO Numerical features and categorical columns defined.
+2025-06-17 14:30:45,172 INFO Numerical and categorical transformers created.
+2025-06-17 14:30:45,172 INFO ColumnTransformer created with numerical and categorical transformers.
+2025-06-17 14:30:45,173 INFO Data transformation initiated on training and testing datasets.
+2025-06-17 14:30:45,197 INFO Data transformation completed successfully.
+2025-06-17 14:30:45,197 INFO Training and testing arrays created.
+2025-06-17 14:30:45,204 INFO Object saved at artifacts/preprocessor.pkl
+2025-06-17 14:30:45,204 INFO Preprocessor object saved successfully.
+2025-06-17 14:30:45,204 INFO Splitting training and testing data
+2025-06-17 14:30:45,204 INFO Model dictionary created with various regression models
+2025-06-17 14:30:45,208 INFO Linear Regression - Train Score: 0.8734184154623426, Test Score: 0.8808821891653763
+2025-06-17 14:30:45,209 INFO Model evaluation completed successfully.
+2025-06-17 14:30:45,367 INFO Gradient Boosting Regressor - Train Score: 0.9050396644022572, Test Score: 0.8728288218216735
+2025-06-17 14:30:45,367 INFO Model evaluation completed successfully.
+2025-06-17 14:30:45,516 INFO AdaBoost Regression - Train Score: 0.8456891217195958, Test Score: 0.8509973205572551
+2025-06-17 14:30:45,516 INFO Model evaluation completed successfully.
+2025-06-17 14:30:45,586 INFO KNeighbors Regressor - Train Score: 0.698829642221767, Test Score: 0.47561174068704326
+2025-06-17 14:30:45,586 INFO Model evaluation completed successfully.
+2025-06-17 14:30:45,595 INFO Decision Tree Regressor - Train Score: 0.9996534669718089, Test Score: 0.7175949213112275
+2025-06-17 14:30:45,595 INFO Model evaluation completed successfully.
+2025-06-17 14:30:46,048 INFO Random Forest Regressor - Train Score: 0.9763152098007327, Test Score: 0.8512276738206888
+2025-06-17 14:30:46,048 INFO Model evaluation completed successfully.
+2025-06-17 14:30:46,048 INFO Best model found: Linear Regression with score: 0.8808821891653763
+2025-06-17 14:30:46,050 INFO Object saved at artifacts/model.pkl
+2025-06-17 14:30:46,050 INFO Best model saved successfully
+2025-06-17 14:30:46,052 INFO Model evaluation metrics - R2: 0.8808821891653763, MAE: 4.20125, MSE: 28.9859375
+2025-06-17 14:30:46,054 INFO Data ingestion completed successfully
